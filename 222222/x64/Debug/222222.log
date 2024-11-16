@@ -1,0 +1,16 @@
+﻿  222222.cpp
+C:\Users\21929\Desktop\222222\222222\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\21929\Desktop\222222\222222\222222.cpp(19,1): warning C4005: “av_err2str”: 宏重定义
+C:\Users\21929\Desktop\222222\222222\include\libavutil\error.h(122): message : 参见“av_err2str”的前一个定义
+C:\Users\21929\Desktop\222222\222222\222222.cpp(92,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\21929\Desktop\222222\222222\222222.cpp(201,59): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\21929\Desktop\222222\222222\222222.cpp(203,25): warning C4244: “=”: 从“float”转换到“int64_t”，可能丢失数据
+C:\Users\21929\Desktop\222222\222222\222222.cpp(264,38): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\21929\Desktop\222222\222222\222222.cpp(270,25): warning C4244: “=”: 从“float”转换到“int64_t”，可能丢失数据
+C:\Users\21929\Desktop\222222\222222\222222.cpp(290,84): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\21929\Desktop\222222\222222\222222.cpp(340,18): warning C4244: “+=”: 从“float”转换到“int64_t”，可能丢失数据
+C:\Users\21929\Desktop\222222\222222\222222.cpp(360,18): warning C4244: “-=”: 从“float”转换到“int64_t”，可能丢失数据
+C:\Users\21929\Desktop\222222\222222\222222.cpp(379,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\21929\Desktop\222222\222222\222222.cpp(594,34): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\21929\Desktop\222222\222222\222222.cpp(602,16): warning C4018: “>”: 有符号/无符号不匹配
+  222222.vcxproj -> C:\Users\21929\Desktop\222222\x64\Debug\222222.exe
